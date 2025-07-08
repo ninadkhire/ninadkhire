@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Ninad Khire</h1>
-<h3 align="center">Software Developer | Java | Android | Flutter | iOS</h3>
+<h1>Hi there 👋, I'm Ninad Khire</h1>
+<h3>Software Developer | Java | Android | Flutter | iOS</h3>
 
 - I am currently working on (and learning) **Java, Android, iOS and Flutter**.
 - I am looking to contribute to Open Source projects.
