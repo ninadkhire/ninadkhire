@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ninad Khire</h1>
+<h1 align="center">Hi there 👋, I'm Ninad Khire</h1>
 <h3 align="center">Software Developer | Java | Android | Flutter | iOS</h3>
 
-- 🔭 I’m currently working on (and learning) **Java, Android and Flutter**.
+- 🔭 I am currently working on (and learning) **Java, Android, iOS and Flutter**.
 
 -  I have published mobile apps on [Google Play](https://play.google.com/store/apps/dev?id=6812684529346551020) and [App Store](https://apps.apple.com/us/developer/ninad-khire/id1812421658).
+
+-  I am looking to contribute to Open Source projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
